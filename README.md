@@ -33,13 +33,6 @@
 * Deploying model was most challenging
 * Succesfully deployed the model on microsoft custom vision api and kept building the dataset by taking photos and manually labelling all the products to be able to train the model
 * After 7 Iterations this is the score that the model was able to make and we used for deploying
-> ### Tag|Precision|Recall|A.P|Image Count|
-> ### |chocomini|96.8%|81.1%| 84.4%|	  	100
-> ### vegetablebabyfood	94.7%		72.0%	 86.9%		110
-> ### apple		94.6%		62.5%	 82.0%		153
-
-## The model performed well, prototype demo while stage presentationduring hackathon was susccessful and our team got KUDOS three times for the strategy that we adopt. 
-
 <table>
 <thead>
 <tr>
@@ -53,14 +46,13 @@
 <tbody>
 <tr>
 <td>Chocomini</td>
-<td>Vegetable baby food</td>
 <td>96.8</td>
 <td>81.1</td>
 <td>84.4</td>
 <td>100</td>
 </tr>
 <tr>
-<td>Chocomini</td>
+<td>Vegetable baby food</td>
 <td>94.7</td>
 <td>72.0</td>
 <td>86.9</td>
@@ -76,6 +68,9 @@
 <tr>
 </tbody>
 </table>
+
+
+## The model performed well, prototype demo while stage presentationduring hackathon was susccessful and our team got KUDOS three times for the strategy that we adopt. 
 
 
 
