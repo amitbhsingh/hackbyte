@@ -15,7 +15,7 @@
 ## [Problem documentation on google drive colloborative](https://docs.google.com/document/d/1oO5qgP7A-9FBh9zGr0-IfWLH5IveH4zZ1WJUxow8O0M/edit) 
 * Communicating with clients to list the key challenges
 * Sorting the best plan with collective team feedback
-# * Business Problem framed: Solving the buffer between warehouse, self life of the product and reducing the friction
+#  Business Problem framed: Solving the buffer between warehouse, shelf life of the product and reducing the friction
 ## _Phase 2_ : Planning the layout / wireframe of the idea 
 * We strategised about the steps we should take to distribute responsibilities and work on them.
 * [Built a front end web app and hosted on github pages](https://novinaw.github.io/user-list.html)
