@@ -1,7 +1,7 @@
 # _Hackbyte Preparation_
 
 # This repo has all the files that were created used during the hackbyte event organized by the loblaws and microsoft
-Resources: 
+# **Resources** 
 > ## [Provided by Microsoft & Loblaws](https://github.com/amitbhsingh/hackbyte/tree/master/HBinstructions)
 > ## 
 ## Meet our team on Linkedin.
