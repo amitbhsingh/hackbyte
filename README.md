@@ -76,5 +76,5 @@
 
 
 
-
-# Electron modern desktop application
+## References for further exploration that I found during this project
+* Electron modern desktop application
