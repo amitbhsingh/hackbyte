@@ -33,6 +33,7 @@
 * Deploying model was most challenging
 * Succesfully deployed the model on microsoft custom vision api and kept building the dataset by taking photos and manually labelling all the products to be able to train the model
 * After 7 Iterations this is the score that the model was able to make and we used for deploying
+## Amazing results with help of microsoft custom vision api
 <table>
 <thead>
 <tr>
