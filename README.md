@@ -40,7 +40,42 @@
 
 ## The model performed well, prototype demo while stage presentationduring hackathon was susccessful and our team got KUDOS three times for the strategy that we adopt. 
 
-
+<table>
+<thead>
+<tr>
+<th>Tag</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>A.P</th> 
+<th>Image Count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chocomini</td>
+<td>Vegetable baby food</td>
+<td>96.8</td>
+<td>81.1</td>
+<td>84.4</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Chocomini</td>
+<td>94.7</td>
+<td>72.0</td>
+<td>86.9</td>
+<td>110</td>
+</tr>
+<tr>
+<td>Apple Baby food</td>
+<td>94.6</td>
+<td>62.5</td>
+<td>82.0</td>
+<td>153</td>
+</tr>
+<tr>
+</tbody>
+</table>
 
 
 
