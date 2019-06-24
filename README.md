@@ -9,7 +9,7 @@
 * [Mubtaseem Zaman - Core backend and deploying](https://www.linkedin.com/in/mubtaseemz/?originalSubdomain=ca)
 * [Amit Singh - Image labeling and modeling with azure](https://www.linkedin.com/in/mubtaseemz/?originalSubdomain=ca)
 * [Novina Wong - Front End | UI/UX](https://www.linkedin.com/in/novinawong/)
-* [Weqi Liu - Front End](https://www.linkedin.com/in/sundeeppothula/)
+* [Weqi Liu - Front End](https://www.linkedin.com/in/bblwq/)
 ## _Phase 1_ : Business problem framing
 * Brainstorming for ideation
 * Communicating with clients to list the key challenges
