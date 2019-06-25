@@ -73,7 +73,14 @@
 
 ## The model performed well, prototype demo while stage presentationduring hackathon was susccessful and our team got KUDOS three times for the strategy that we adopt. 
 
+# Conclusion:
+1. Reduces time for in-store shoppers and pickers (one who picks up the online orders for you) to find an item
+2. Shoppers/ pickers readily know if an item is available or not from the recent most picture of the shelf in the database
+3. Eliminates cost of thousands of camera installation for tracking items by crowd sourcing pickers and shoppers 
 
+Overall - a clever loop to ease customer/ employee pain of 'finding an item and checking the availability of the item' by the help of customers/ employee themselves :3
+
+We used - classical computer vision feature matching algorithms, fast R-CNN and Azure Custom Vision for prototyping (the neural net detects me as Choco Mini and vegetable puree!
 
 
 ## References for further exploration that I found during this project
