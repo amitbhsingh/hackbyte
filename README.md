@@ -25,10 +25,10 @@
 ## _Phase 3_ : Data Preparation
 * Preparing synthetic dataset and manually labelling them with microsoft azure custom vision api 
 * [Click here to get access to images we took to create dataset to train model,event and team photos](https://drive.google.com/drive/folders/1m75WL8UZR0es2vJ1p69KnRd45iM6l1m9?usp=sharing)
-## _Phase 5_ :We visited Loblaw's store at queen's and portland for validating the idea and user testing. 
+## _Idea that helped us win the hackathon_ :We visited Loblaw's store at queen's and portland for validating the idea and user testing. 
 ## _Phase 4_ : Modeling
 * Created 5 version of model with the synthetically created and manually labelled data using azure custom vision api
-* Highest accuracy we acheived was 92.9 percent 
+ 
 ## _Phase 5_ : Deploying
 * Deploying model was most challenging
 * Succesfully deployed the model on microsoft custom vision api and kept building the dataset by taking photos and manually labelling all the products to be able to train the model
