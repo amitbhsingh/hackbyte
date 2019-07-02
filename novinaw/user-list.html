@@ -1,0 +1,119 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Material Design for Bootstrap fonts and icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
+
+    <!-- Material Design for Bootstrap CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css" integrity="sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css">
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <header>
+        <div class="logo">ADAPTIVE AI</div>
+        <div class="page-title">Orders for Users</div>
+    </header>
+
+    <div class="content">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">SKU</th>
+            <th scope="col">Item Description</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Category</th>
+            <th scope="col">Location</th>
+          </tr>
+        </thead>
+        <tbody>
+                <tr>
+                <th scope="row">388329</th>
+                <td>Free Run Eggs - 12x</td>
+                <td>1</td>
+                <td>Dairy</td>
+                <td><a href=""></a>Aisle 4, Section E</a></td>
+                </tr>
+           
+          <tr>
+                <th scope="row">384994</th>
+                <td>Lindt Excellent Roasted Almond</td>
+                <td>2</td>
+                <td>Chocolate</td>
+                <td><a href=""></a>Aisle 4, Section E</a></td>
+          </tr>
+          <tr>
+                <th scope="row">384994</th>
+                <td>PC Baby Food Apples</td>
+                <td>1</td>
+                <td>Baby Food</td>
+                <td><a href="" data-toggle="modal" data-target="#exampleModal">Aisle 8, Section H</a></td>
+          </tr>
+          <tr>
+                <th scope="row">738373</th>
+                <td>Cheese Havati Smoke</td>
+                <td>1</td>
+                <td>Dairy</td>
+                <td><a href=""></a>Aisle 4, Section E</a></td>
+          </tr>
+          <tr>
+                <th scope="row">593948</th>
+                <td>Classico Sauce Tomato and Basil</td>
+                <td>1</td>
+                <td>Pasta & Sauce</td>
+                <td><a href=""></a>Aisle 4, Section E</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content" id="map">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Please Go to Aisle 8, Section H!</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <img src="storemap.png">
+
+          <button type="button" class="btn btn-outline-primary">I'm already here! I don't see it!</button>
+        </div>
+      </div>
+      <div class="modal-content" id="camera"  style="display: none;">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Take a picture.  We will find it for you!</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+              <input type="file" accept="image/*" capture="camera" />
+           
+          </div>
+        </div>
+    </div>
+  </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
+    <script>$(document).ready(function() { $('body').bootstrapMaterialDesign(); });</script>
+    <script>
+        $( "button" ).click(function() {
+          $( "#map" ).toggle();
+          $( "#camera" ).toggle();
+        });
+        </script>
+  </body>
+</html>

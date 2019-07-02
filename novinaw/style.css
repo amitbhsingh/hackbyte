@@ -1,0 +1,17 @@
+header {
+    height: 50px;
+    background-color: #742775;
+    color: white;
+    padding: 30px;
+    display: flex;
+}
+.page-title {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.content {
+    padding: 30px;
+}
+* {
+    font-size: 12px;
+}
