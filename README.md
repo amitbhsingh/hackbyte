@@ -3,7 +3,7 @@
 # This repo has all the files that were created used during the hackbyte event organized by the loblaws and microsoft
 # **Resources** 
 > ## [Provided by Microsoft & Loblaws](https://github.com/amitbhsingh/hackbyte/tree/master/HBinstructions)
-> ## 
+> ##[Photos from event](https://photos.google.com/share/AF1QipM34X23VVCab81exg6ZStDZJ6x4YkGvsZpjbzFI4ldtO-htqoneQuuLDEZ3WngBhg?key=WDA5aTRXUXJ1THBSTkRqblBfZG9hMlYySnhPZ29n)
 ## Meet our team on Linkedin.
 * [Sundeep Pothula - Image labeling and modeling with azure](https://www.linkedin.com/in/sundeeppothula/)
 * [Mubtaseem Zaman - Core backend and deploying](https://www.linkedin.com/in/mubtaseemz/?originalSubdomain=ca)
