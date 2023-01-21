@@ -1,6 +1,6 @@
 # _Hackbyte Preparation_
 
-##### This repo has all the files that were created used during the hackbyte event organized by the loblaws and microsoft
+##### This repo has all the files that were created during the hackbyte event organized by the loblaws and microsoft
 # **Resources** 
 > ## [Provided by Microsoft & Loblaws](https://github.com/amitbhsingh/hackbyte/tree/master/HBinstructions)
 > ##[Photos from event](https://photos.google.com/share/AF1QipM34X23VVCab81exg6ZStDZJ6x4YkGvsZpjbzFI4ldtO-htqoneQuuLDEZ3WngBhg?key=WDA5aTRXUXJ1THBSTkRqblBfZG9hMlYySnhPZ29n)
@@ -11,13 +11,13 @@
 * [Novina Wong - Front End | UI/UX](https://www.linkedin.com/in/novinawong/)
 * [Weqi Liu - Front End](https://www.linkedin.com/in/bblwq/)
 ## _Phase 1_ : Business problem framing
-* Brainstorming for ideation
+* Brainstorming & ideation
 * Communicating with clients to list the key challenges
 * Sorting the best plan with collective team feedback
 * [Problem's documentation on google drive colloboratively by team](https://docs.google.com/document/d/1oO5qgP7A-9FBh9zGr0-IfWLH5IveH4zZ1WJUxow8O0M/edit) 
 
 
-#  Business Problem framed: Solving the buffer between warehouse, shelf life of the product and reducing the friction
+#  Business Problem: Solving the buffer between warehouse, shelf life of the product and reducing the friction
 ## _Phase 2_ : Planning the layout / wireframe of the idea 
 * We strategised about the steps we should take to distribute responsibilities and work on them.
 * [Built a front end web app and hosted on github pages](https://novinaw.github.io/user-list.html)
